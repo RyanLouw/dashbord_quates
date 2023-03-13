@@ -1,0 +1,79 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 5px 10px; /* reduce top and bottom padding */
+  background-color: #222;
+  color: #fff;
+}
+
+.section {
+  display: flex;
+  align-items: center;
+}
+
+.select {
+  margin-left: 10px;
+}
+
+label {
+  font-weight: bold;
+  margin-right: 5px;
+}
+
+select {
+  margin-left: 5px;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+h1 {
+  font-size: 1.2rem; /* reduce font size of heading */
+  margin: 0;
+}
+
+.quote-number, .last-updated {
+  display: flex;
+  align-items: center;
+  color: #fff;
+  font-size: 0.7rem; /* reduce font size of subheadings */
+}
+
+.quote-number p, .last-updated p {
+  margin: 0;
+  margin-right: 5px;
+}
+
+.quote-number span, .last-updated span {
+  font-weight: bold;
+  margin-left: 5px;
+}
+
+.sales-cards {
+  display: flex;
+  flex-wrap: wrap;
+  align-content: flex-start;
+  margin-top: 10px; /* reduce top margin */
+  max-height: calc(100vh - 60px); /* adjust max height to account for smaller header */
+  overflow-y: auto;
+  flex-direction: column;
+}
+
+.sales-card {
+  background-color: #222;
+  color: #fff;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  margin: 0;
+  padding: 10px;
+  width: auto;
+  break-inside: avoid-column;
+}
+
+.sales-card h2 {
+  font-size: 1rem; /* reduce font size of salesperson name */
+  margin: 0;
+  margin-bottom: 10px;
+  color: #fff;
+}

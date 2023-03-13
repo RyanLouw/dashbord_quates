@@ -1,0 +1,905 @@
+[
+   {
+     "quote_no": "Q12345",
+     "salesman_name": "John Smith",
+     "rep_code": "123",
+     "branch_code": "3",
+     "created_date": "2023-03-13",
+     "created_time": "10:30:00",
+     "invoice_no": "INV123"
+   },
+   {
+     "quote_no": "Q12346",
+     "salesman_name": "Jane Doe",
+     "rep_code": "124",
+     "branch_code": "3",
+     "created_date": "2023-03-13",
+     "created_time": "11:30:00",
+     "invoice_no": "INV124"
+   },
+   {
+    "quote_no": "KCS",
+    "salesman_name": "Stephie Tefft",
+    "rep_code": "Tefft",
+    "branch_code": "1",
+    "created_date": "2023-03-13",
+    "created_time": "18:04:28",
+    "invoice_no": "#f77daf"
+  }, {
+    "quote_no": "ADT",
+    "salesman_name": "Dmitri Edgeson",
+    "rep_code": "Edgeson",
+    "branch_code": "1",
+    "created_date": "2023-03-13",
+    "created_time": "20:44:08",
+    "invoice_no": "#74caf2"
+  }, {
+    "quote_no": "NSL",
+    "salesman_name": "Paola MacTague",
+    "rep_code": "MacTague",
+    "branch_code": "2",
+    "created_date": "2023-03-13",
+    "created_time": "13:14:57",
+    "invoice_no": "#854475"
+  }, {
+    "quote_no": "STQ177409",
+    "salesman_name": "Concordia Croydon",
+    "rep_code": "Croydon",
+    "branch_code": "2",
+    "created_date": "2023-03-13",
+    "created_time": "11:10:38",
+    "invoice_no": "#c74adc"
+  },
+  {
+    "quote_no": "STQ177409",
+    "salesman_name": "Concordia Croydon",
+    "rep_code": "Croydon",
+    "branch_code": "2",
+    "created_date": "2023-03-13",
+    "created_time": "10:10:38",
+    "invoice_no": "#c74adc"
+  },
+  {
+    "quote_no": "STQ177409",
+    "salesman_name": "Concordia Croydon",
+    "rep_code": "Croydon",
+    "branch_code": "2",
+    "created_date": "2023-03-13",
+    "created_time": "9:10:00",
+    "invoice_no": "#c74adc"
+  },
+  {
+    "quote_no": "STQ177409",
+    "salesman_name": "Concordia Croydon",
+    "rep_code": "Croydon",
+    "branch_code": "2",
+    "created_date": "2023-03-13",
+    "created_time": "8:10:38",
+    "invoice_no": "#c74adc"
+  },
+  {
+    "quote_no": "STQ177409",
+    "salesman_name": "Concordia Croydon",
+    "rep_code": "Croydon",
+    "branch_code": "2",
+    "created_date": "2023-03-13",
+    "created_time": "7:10:38",
+    "invoice_no": "#c74adc"
+  },
+   {
+    "quote_no": "YLG",
+    "salesman_name": "Ellissa Sola",
+    "rep_code": "Sola",
+    "branch_code": "2",
+    "created_date": "2023-03-13",
+    "created_time": "22:26:39",
+    "invoice_no": "#4eced5"
+  }, {
+    "quote_no": "QLA",
+    "salesman_name": "Lavena Kliemchen",
+    "rep_code": "Kliemchen",
+    "branch_code": "1",
+    "created_date": "2023-03-13",
+    "created_time": "10:08:37",
+    "invoice_no": "#78237d"
+  }, {
+    "quote_no": "SWY",
+    "salesman_name": "Cristy Toner",
+    "rep_code": "Toner",
+    "branch_code": "3",
+    "created_date": "2023-03-13",
+    "created_time": "10:08:15",
+    "invoice_no": "#ff1e83"
+  }, {
+    "quote_no": "EBH",
+    "salesman_name": "Nils Skydall",
+    "rep_code": "Skydall",
+    "branch_code": "1",
+    "created_date": "2023-03-13",
+    "created_time": "13:42:38",
+    "invoice_no": "#bd2d29"
+  }, {
+    "quote_no": "STQ177409",
+    "salesman_name": "Nelle Delap",
+    "rep_code": "Delap",
+    "branch_code": "2",
+    "created_date": "2023-03-13",
+    "created_time": "12:00:00",
+    "invoice_no": "#01ef5c"
+  }, {
+    "quote_no": "ESF",
+    "salesman_name": "Othelia Driutti",
+    "rep_code": "Driutti",
+    "branch_code": "1",
+    "created_date": "2023-03-13",
+    "created_time": "8:17:29",
+    "invoice_no": "#63a8ba"
+  }, {
+    "quote_no": "JMS",
+    "salesman_name": "Ludwig Stanistreet",
+    "rep_code": "Stanistreet",
+    "branch_code": "1",
+    "created_date": "2023-03-13",
+    "created_time": "12:19:07",
+    "invoice_no": "#77fe5f"
+  }, {
+    "quote_no": "WTA",
+    "salesman_name": "Lianne Aleso",
+    "rep_code": "Aleso",
+    "branch_code": "2",
+    "created_date": "2023-03-13",
+    "created_time": "10:37:42",
+    "invoice_no": "#8c9a93"
+  }, {
+    "quote_no": "DOR",
+    "salesman_name": "Bonni Danielsohn",
+    "rep_code": "Danielsohn",
+    "branch_code": "3",
+    "created_date": "2023-03-13",
+    "created_time": "16:11:24",
+    "invoice_no": "#806d7b"
+  }, {
+    "quote_no": "JOK",
+    "salesman_name": "Jewelle Troubridge",
+    "rep_code": "Troubridge",
+    "branch_code": "2",
+    "created_date": "2023-03-13",
+    "created_time": "19:55:20",
+    "invoice_no": "#bb1d5f"
+  }, {
+    "quote_no": "MWF",
+    "salesman_name": "Selma Mityushkin",
+    "rep_code": "Mityushkin",
+    "branch_code": "1",
+    "created_date": "2023-03-13",
+    "created_time": "23:02:34",
+    "invoice_no": "#4dab60"
+  }, {
+    "quote_no": "NLN",
+    "salesman_name": "Lu O'Murtagh",
+    "rep_code": "O'Murtagh",
+    "branch_code": "3",
+    "created_date": "2023-03-13",
+    "created_time": "0:52:37",
+    "invoice_no": "#c6a582"
+  }, {
+    "quote_no": "TFN",
+    "salesman_name": "Joann Braz",
+    "rep_code": "Braz",
+    "branch_code": "3",
+    "created_date": "2023-03-13",
+    "created_time": "12:17:39",
+    "invoice_no": "#450e80"
+  }, {
+    "quote_no": "KGB",
+    "salesman_name": "Celka Di Giorgio",
+    "rep_code": "Di Giorgio",
+    "branch_code": "1",
+    "created_date": "2023-03-13",
+    "created_time": "1:04:15",
+    "invoice_no": "#abdc2a"
+  }, {
+    "quote_no": "KNM",
+    "salesman_name": "Haydon Kemmet",
+    "rep_code": "Kemmet",
+    "branch_code": "2",
+    "created_date": "2023-03-13",
+    "created_time": "4:47:19",
+    "invoice_no": "#89ffad"
+  }, {
+    "quote_no": "JVI",
+    "salesman_name": "Hercules Blewitt",
+    "rep_code": "Blewitt",
+    "branch_code": "1",
+    "created_date": "2023-03-13",
+    "created_time": "9:47:48",
+    "invoice_no": "#554480"
+  }, {
+    "quote_no": "AWE",
+    "salesman_name": "Vinny Mulmuray",
+    "rep_code": "Mulmuray",
+    "branch_code": "1",
+    "created_date": "2023-03-13",
+    "created_time": "18:28:09",
+    "invoice_no": "#60f822"
+  }, {
+    "quote_no": "ENO",
+    "salesman_name": "Antonie Maberley",
+    "rep_code": "Maberley",
+    "branch_code": "3",
+    "created_date": "2023-03-13",
+    "created_time": "15:58:52",
+    "invoice_no": "#37a463"
+  }, {
+    "quote_no": "STQ177409",
+    "salesman_name": "Karna Eberst",
+    "rep_code": "Eberst",
+    "branch_code": "2",
+    "created_date": "2023-03-13",
+    "created_time": "20:44:16",
+    "invoice_no": "#2bcb93"
+  }, {
+    "quote_no": "ISD",
+    "salesman_name": "Beilul Crehan",
+    "rep_code": "Crehan",
+    "branch_code": "3",
+    "created_date": "2023-03-13",
+    "created_time": "9:27:54",
+    "invoice_no": "#955b33"
+  }, {
+    "quote_no": "CWI",
+    "salesman_name": "Zuzana Zute",
+    "rep_code": "Zute",
+    "branch_code": "1",
+    "created_date": "2023-03-13",
+    "created_time": "12:59:23",
+    "invoice_no": "#c2cadf"
+  }, {
+    "quote_no": "XIY",
+    "salesman_name": "Marieann Getch",
+    "rep_code": "Getch",
+    "branch_code": "2",
+    "created_date": "2023-03-13",
+    "created_time": "8:56:27",
+    "invoice_no": "#ad6383"
+  }, {
+    "quote_no": "NSK",
+    "salesman_name": "Ivette Bone",
+    "rep_code": "Bone",
+    "branch_code": "1",
+    "created_date": "2023-03-13",
+    "created_time": "10:33:45",
+    "invoice_no": "#35ce9e"
+  }, {
+    "quote_no": "SPA",
+    "salesman_name": "Morgen Joddens",
+    "rep_code": "Joddens",
+    "branch_code": "3",
+    "created_date": "2023-03-13",
+    "created_time": "20:42:18",
+    "invoice_no": "#81302b"
+  }, {
+    "quote_no": "SVN",
+    "salesman_name": "Babita Tow",
+    "rep_code": "Tow",
+    "branch_code": "1",
+    "created_date": "2023-03-13",
+    "created_time": "14:55:18",
+    "invoice_no": "#dc7b62"
+  }, {
+    "quote_no": "IOM",
+    "salesman_name": "Martguerita MacCorley",
+    "rep_code": "MacCorley",
+    "branch_code": "1",
+    "created_date": "2023-03-13",
+    "created_time": "9:09:39",
+    "invoice_no": "#0e9136"
+  }, {
+    "quote_no": "SHO",
+    "salesman_name": "Lily Barby",
+    "rep_code": "Barby",
+    "branch_code": "3",
+    "created_date": "2023-03-13",
+    "created_time": "1:41:17",
+    "invoice_no": "#ab3ef2"
+  }, {
+    "quote_no": "BRI",
+    "salesman_name": "Kellsie Rhoddie",
+    "rep_code": "Rhoddie",
+    "branch_code": "3",
+    "created_date": "2023-03-13",
+    "created_time": "13:30:17",
+    "invoice_no": "#f38476"
+  }, {
+    "quote_no": "HGN",
+    "salesman_name": "Bailie Diable",
+    "rep_code": "Diable",
+    "branch_code": "2",
+    "created_date": "2023-03-13",
+    "created_time": "7:22:05",
+    "invoice_no": "#e2370f"
+  }, {
+    "quote_no": "FON",
+    "salesman_name": "Abner Schubbert",
+    "rep_code": "Schubbert",
+    "branch_code": "1",
+    "created_date": "2023-03-13",
+    "created_time": "22:06:23",
+    "invoice_no": "#8639d3"
+  }, {
+    "quote_no": "JUN",
+    "salesman_name": "Sharlene Westbury",
+    "rep_code": "Westbury",
+    "branch_code": "1",
+    "created_date": "2023-03-13",
+    "created_time": "18:14:07",
+    "invoice_no": "#a7373a"
+  }, {
+    "quote_no": "YGT",
+    "salesman_name": "Bo Rainon",
+    "rep_code": "Rainon",
+    "branch_code": "3",
+    "created_date": "2023-03-13",
+    "created_time": "0:09:41",
+    "invoice_no": "#3ce525"
+  }, {
+    "quote_no": "HIF",
+    "salesman_name": "Maurise Kopta",
+    "rep_code": "Kopta",
+    "branch_code": "2",
+    "created_date": "2023-03-13",
+    "created_time": "6:59:07",
+    "invoice_no": "#05340e"
+  }, {
+    "quote_no": "HUU",
+    "salesman_name": "Ron Wastell",
+    "rep_code": "Wastell",
+    "branch_code": "3",
+    "created_date": "2023-03-13",
+    "created_time": "10:06:36",
+    "invoice_no": "#c26dfe"
+  }, {
+    "quote_no": "SSK",
+    "salesman_name": "Roseline Antonucci",
+    "rep_code": "Antonucci",
+    "branch_code": "2",
+    "created_date": "2023-03-13",
+    "created_time": "8:11:50",
+    "invoice_no": "#7bbf5f"
+  }, {
+    "quote_no": "VAC",
+    "salesman_name": "Loleta Elman",
+    "rep_code": "Elman",
+    "branch_code": "2",
+    "created_date": "2023-03-13",
+    "created_time": "22:04:10",
+    "invoice_no": "#a45b10"
+  }, {
+    "quote_no": "CHL",
+    "salesman_name": "Cesare Shirley",
+    "rep_code": "Shirley",
+    "branch_code": "3",
+    "created_date": "2023-03-13",
+    "created_time": "18:19:39",
+    "invoice_no": "#0a6fc1"
+  }, {
+    "quote_no": "VIH",
+    "salesman_name": "Thalia Sainte Paul",
+    "rep_code": "Sainte Paul",
+    "branch_code": "1",
+    "created_date": "2023-03-13",
+    "created_time": "16:51:36",
+    "invoice_no": "#cef21b"
+  }, {
+    "quote_no": "YAL",
+    "salesman_name": "Kylynn Grout",
+    "rep_code": "Grout",
+    "branch_code": "3",
+    "created_date": "2023-03-13",
+    "created_time": "12:22:07",
+    "invoice_no": "#f392cd"
+  }, {
+    "quote_no": "LLF",
+    "salesman_name": "Jean Lambregts",
+    "rep_code": "Lambregts",
+    "branch_code": "2",
+    "created_date": "2023-03-13",
+    "created_time": "17:40:26",
+    "invoice_no": "#b33b71"
+  }, {
+    "quote_no": "STQ177409",
+    "salesman_name": "Pansie Shawe",
+    "rep_code": "Shawe",
+    "branch_code": "2",
+    "created_date": "2023-03-13",
+    "created_time": "19:09:42",
+    "invoice_no": "#6e1400"
+  }, {
+    "quote_no": "AUF",
+    "salesman_name": "Erick Barlie",
+    "rep_code": "Barlie",
+    "branch_code": "1",
+    "created_date": "2023-03-13",
+    "created_time": "23:16:08",
+    "invoice_no": "#87c533"
+  }, {
+    "quote_no": "LUO",
+    "salesman_name": "Haywood Vinall",
+    "rep_code": "Vinall",
+    "branch_code": "2",
+    "created_date": "2023-03-13",
+    "created_time": "16:39:47",
+    "invoice_no": "#c21166"
+  }, {
+    "quote_no": "YLW",
+    "salesman_name": "Ulrike Hackey",
+    "rep_code": "Hackey",
+    "branch_code": "1",
+    "created_date": "2023-03-13",
+    "created_time": "16:28:12",
+    "invoice_no": "#3a4411"
+  }, {
+    "quote_no": "XAL",
+    "salesman_name": "Royce Pedersen",
+    "rep_code": "Pedersen",
+    "branch_code": "2",
+    "created_date": "2023-03-13",
+    "created_time": "11:56:50",
+    "invoice_no": "#8afd0c"
+  }, {
+    "quote_no": "STQ177409",
+    "salesman_name": "Kevyn Siemantel",
+    "rep_code": "Siemantel",
+    "branch_code": "2",
+    "created_date": "2023-03-13",
+    "created_time": "12:20:04",
+    "invoice_no": "#c511c0"
+  },
+  {
+    "quote_no": "STQ177409",
+    "salesman_name": "Kevyn Siemantel",
+    "rep_code": "Siemantel",
+    "branch_code": "2",
+    "created_date": "2023-03-13",
+    "created_time": "12:20:04",
+    "invoice_no": "#c511c0"
+  },
+  {
+    "quote_no": "STQ177409",
+    "salesman_name": "Kevyn Siemantel",
+    "rep_code": "Siemantel",
+    "branch_code": "2",
+    "created_date": "2023-03-13",
+    "created_time": "12:20:04",
+    "invoice_no": "#c511c0"
+  },
+  {
+    "quote_no": "STQ177409",
+    "salesman_name": "Kevyn Siemantel",
+    "rep_code": "Siemantel",
+    "branch_code": "2",
+    "created_date": "2023-03-13",
+    "created_time": "12:20:04",
+    "invoice_no": "#c511c0"
+  },
+  {
+    "quote_no": "STQ177409",
+    "salesman_name": "Kevyn Siemantel",
+    "rep_code": "Siemantel",
+    "branch_code": "2",
+    "created_date": "2023-03-13",
+    "created_time": "12:20:04",
+    "invoice_no": "#c511c0"
+  },
+  {
+    "quote_no": "STQ177409",
+    "salesman_name": "Kevyn Siemantel",
+    "rep_code": "Siemantel",
+    "branch_code": "2",
+    "created_date": "2023-03-13",
+    "created_time": "12:20:04",
+    "invoice_no": "#c511c0"
+  }, 
+  {
+    "quote_no": "MNI",
+    "salesman_name": "Frank Skewis",
+    "rep_code": "Skewis",
+    "branch_code": "3",
+    "created_date": "2023-03-13",
+    "created_time": "10:09:16",
+    "invoice_no": "#c770e5"
+  }, {
+    "quote_no": "RPB",
+    "salesman_name": "Sukey Labbe",
+    "rep_code": "Labbe",
+    "branch_code": "3",
+    "created_date": "2023-03-13",
+    "created_time": "19:39:26",
+    "invoice_no": "#0c8d1e"
+  }, {
+    "quote_no": "HLZ",
+    "salesman_name": "Marylin Steggals",
+    "rep_code": "Steggals",
+    "branch_code": "1",
+    "created_date": "2023-03-13",
+    "created_time": "8:27:16",
+    "invoice_no": "#e0acd1"
+  }, {
+    "quote_no": "MAO",
+    "salesman_name": "Angele Ferrettino",
+    "rep_code": "Ferrettino",
+    "branch_code": "2",
+    "created_date": "2023-03-13",
+    "created_time": "16:03:00",
+    "invoice_no": "#b95354"
+  }, {
+    "quote_no": "LPJ",
+    "salesman_name": "Ewen Bruins",
+    "rep_code": "Bruins",
+    "branch_code": "3",
+    "created_date": "2023-03-13",
+    "created_time": "14:36:30",
+    "invoice_no": "#323487"
+  }, {
+    "quote_no": "SEM",
+    "salesman_name": "Katlin Bodill",
+    "rep_code": "Bodill",
+    "branch_code": "2",
+    "created_date": "2023-03-13",
+    "created_time": "19:04:49",
+    "invoice_no": "#b2d8df"
+  }, {
+    "quote_no": "SIV",
+    "salesman_name": "Jeanie Simoens",
+    "rep_code": "Simoens",
+    "branch_code": "2",
+    "created_date": "2023-03-13",
+    "created_time": "23:54:46",
+    "invoice_no": "#fc7d54"
+  }, {
+    "quote_no": "STQ177409",
+    "salesman_name": "Meriel Cheyne",
+    "rep_code": "Cheyne",
+    "branch_code": "2",
+    "created_date": "2023-03-13",
+    "created_time": "17:23:47",
+    "invoice_no": "#0e7363"
+  }, {
+    "quote_no": "YXE",
+    "salesman_name": "Neron Meeron",
+    "rep_code": "Meeron",
+    "branch_code": "1",
+    "created_date": "2023-03-13",
+    "created_time": "8:34:12",
+    "invoice_no": "#e53c02"
+  }, {
+    "quote_no": "CZA",
+    "salesman_name": "Wain Brands",
+    "rep_code": "Brands",
+    "branch_code": "1",
+    "created_date": "2023-03-13",
+    "created_time": "22:22:41",
+    "invoice_no": "#6a0874"
+  }, {
+    "quote_no": "SQL",
+    "salesman_name": "Georgetta Deroche",
+    "rep_code": "Deroche",
+    "branch_code": "1",
+    "created_date": "2023-03-13",
+    "created_time": "8:48:47",
+    "invoice_no": "#630aa0"
+  }, {
+    "quote_no": "CGH",
+    "salesman_name": "Hymie Spadeck",
+    "rep_code": "Spadeck",
+    "branch_code": "1",
+    "created_date": "2023-03-13",
+    "created_time": "2:39:50",
+    "invoice_no": "#38935f"
+  }, {
+    "quote_no": "KBS",
+    "salesman_name": "Murry Cordes",
+    "rep_code": "Cordes",
+    "branch_code": "1",
+    "created_date": "2023-03-13",
+    "created_time": "10:37:00",
+    "invoice_no": "#33dca3"
+  }, {
+    "quote_no": "OEC",
+    "salesman_name": "Brena Soames",
+    "rep_code": "Soames",
+    "branch_code": "1",
+    "created_date": "2023-03-13",
+    "created_time": "20:41:57",
+    "invoice_no": "#ff0179"
+  }, {
+    "quote_no": "SNL",
+    "salesman_name": "Zacharia Wadham",
+    "rep_code": "Wadham",
+    "branch_code": "2",
+    "created_date": "2023-03-13",
+    "created_time": "6:56:20",
+    "invoice_no": "#96b54b"
+  }, {
+    "quote_no": "KMU",
+    "salesman_name": "Hinze Insull",
+    "rep_code": "Insull",
+    "branch_code": "1",
+    "created_date": "2023-03-13",
+    "created_time": "8:46:14",
+    "invoice_no": "#9dcfea"
+  }, {
+    "quote_no": "WIN",
+    "salesman_name": "Ange Turl",
+    "rep_code": "Turl",
+    "branch_code": "1",
+    "created_date": "2023-03-13",
+    "created_time": "19:12:17",
+    "invoice_no": "#3a76d5"
+  }, {
+    "quote_no": "RBA",
+    "salesman_name": "Keene Vankeev",
+    "rep_code": "Vankeev",
+    "branch_code": "2",
+    "created_date": "2023-03-13",
+    "created_time": "14:40:56",
+    "invoice_no": "#4a069a"
+  }, {
+    "quote_no": "YCG",
+    "salesman_name": "Donnell Kneller",
+    "rep_code": "Kneller",
+    "branch_code": "3",
+    "created_date": "2023-03-13",
+    "created_time": "11:21:17",
+    "invoice_no": "#aaff04"
+  }, {
+    "quote_no": "STQ177409",
+    "salesman_name": "Sergent Hearl",
+    "rep_code": "Hearl",
+    "branch_code": "2",
+    "created_date": "2023-03-13",
+    "created_time": "5:59:01",
+    "invoice_no": "#eac5fb"
+  }, {
+    "quote_no": "YOS",
+    "salesman_name": "Crichton Narrie",
+    "rep_code": "Narrie",
+    "branch_code": "1",
+    "created_date": "2023-03-13",
+    "created_time": "22:06:47",
+    "invoice_no": "#6cd503"
+  }, {
+    "quote_no": "BAV",
+    "salesman_name": "Teena Bagg",
+    "rep_code": "Bagg",
+    "branch_code": "3",
+    "created_date": "2023-03-13",
+    "created_time": "16:44:28",
+    "invoice_no": "#148df4"
+  }, {
+    "quote_no": "KYD",
+    "salesman_name": "Keary Swainson",
+    "rep_code": "Swainson",
+    "branch_code": "1",
+    "created_date": "2023-03-13",
+    "created_time": "13:46:12",
+    "invoice_no": "#81cbb2"
+  }, {
+    "quote_no": "TGR",
+    "salesman_name": "Linn Klementz",
+    "rep_code": "Klementz",
+    "branch_code": "3",
+    "created_date": "2023-03-13",
+    "created_time": "13:33:52",
+    "invoice_no": "#013e44"
+  }, {
+    "quote_no": "CAM",
+    "salesman_name": "Corney Waldie",
+    "rep_code": "Waldie",
+    "branch_code": "3",
+    "created_date": "2023-03-13",
+    "created_time": "16:01:26",
+    "invoice_no": "#d41605"
+  }, {
+    "quote_no": "LLS",
+    "salesman_name": "Isa Tibbetts",
+    "rep_code": "Tibbetts",
+    "branch_code": "1",
+    "created_date": "2023-03-13",
+    "created_time": "18:15:18",
+    "invoice_no": "#1ff8d1"
+  }, {
+    "quote_no": "LSK",
+    "salesman_name": "Valentina Stiffell",
+    "rep_code": "Stiffell",
+    "branch_code": "2",
+    "created_date": "2023-03-13",
+    "created_time": "23:46:42",
+    "invoice_no": "#562653"
+  }, {
+    "quote_no": "TKS",
+    "salesman_name": "Hillary Shimon",
+    "rep_code": "Shimon",
+    "branch_code": "1",
+    "created_date": "2023-03-13",
+    "created_time": "3:06:24",
+    "invoice_no": "#94e642"
+  }, {
+    "quote_no": "MVC",
+    "salesman_name": "Elka Mougin",
+    "rep_code": "Mougin",
+    "branch_code": "3",
+    "created_date": "2023-03-13",
+    "created_time": "3:18:30",
+    "invoice_no": "#02d2a4"
+  }, {
+    "quote_no": "PAM",
+    "salesman_name": "Twila Huggins",
+    "rep_code": "Huggins",
+    "branch_code": "3",
+    "created_date": "2023-03-13",
+    "created_time": "21:55:06",
+    "invoice_no": "#b001d6"
+  }, {
+    "quote_no": "LRM",
+    "salesman_name": "Sylvan McMeeking",
+    "rep_code": "McMeeking",
+    "branch_code": "3",
+    "created_date": "2023-03-13",
+    "created_time": "17:15:52",
+    "invoice_no": "#55616e"
+  }, {
+    "quote_no": "RRK",
+    "salesman_name": "Lela Dodds",
+    "rep_code": "Dodds",
+    "branch_code": "3",
+    "created_date": "2023-03-13",
+    "created_time": "7:00:02",
+    "invoice_no": "#178c06"
+  }, {
+    "quote_no": "SGN",
+    "salesman_name": "Edy Kirkebye",
+    "rep_code": "Kirkebye",
+    "branch_code": "3",
+    "created_date": "2023-03-13",
+    "created_time": "15:56:54",
+    "invoice_no": "#7a8ef5"
+  }, {
+    "quote_no": "BZN",
+    "salesman_name": "Kippy Collingridge",
+    "rep_code": "Collingridge",
+    "branch_code": "3",
+    "created_date": "2023-03-13",
+    "created_time": "6:09:26",
+    "invoice_no": "#e3d239"
+  }, {
+    "quote_no": "MCD",
+    "salesman_name": "Mela Bruyns",
+    "rep_code": "Bruyns",
+    "branch_code": "2",
+    "created_date": "2023-03-13",
+    "created_time": "12:20:47",
+    "invoice_no": "#2b0e37"
+  }, {
+    "quote_no": "STQ177409",
+    "salesman_name": "Stillman Sircombe",
+    "rep_code": "Sircombe",
+    "branch_code": "2",
+    "created_date": "2023-03-13",
+    "created_time": "3:48:45",
+    "invoice_no": "#21e829"
+  }, {
+    "quote_no": "VPE",
+    "salesman_name": "Patrice Dog",
+    "rep_code": "Dog",
+    "branch_code": "2",
+    "created_date": "2023-03-13",
+    "created_time": "11:44:58",
+    "invoice_no": "#95b3e5"
+  }, {
+    "quote_no": "SVT",
+    "salesman_name": "Mead Keeney",
+    "rep_code": "Keeney",
+    "branch_code": "3",
+    "created_date": "2023-03-13",
+    "created_time": "21:11:32",
+    "invoice_no": "#70c768"
+  }, {
+    "quote_no": "HSZ",
+    "salesman_name": "Leilah Cicchelli",
+    "rep_code": "Cicchelli",
+    "branch_code": "1",
+    "created_date": "2023-03-13",
+    "created_time": "22:13:10",
+    "invoice_no": "#c9ce75"
+  }, {
+    "quote_no": "PVG",
+    "salesman_name": "Rochell Wloch",
+    "rep_code": "Wloch",
+    "branch_code": "3",
+    "created_date": "2023-03-13",
+    "created_time": "21:10:43",
+    "invoice_no": "#7f586c"
+  }, {
+    "quote_no": "PLE",
+    "salesman_name": "Remus McMillan",
+    "rep_code": "McMillan",
+    "branch_code": "3",
+    "created_date": "2023-03-13",
+    "created_time": "0:22:20",
+    "invoice_no": "#1b787d"
+  }, {
+    "quote_no": "RBO",
+    "salesman_name": "Carr Ferrieres",
+    "rep_code": "Ferrieres",
+    "branch_code": "2",
+    "created_date": "2023-03-13",
+    "created_time": "2:00:36",
+    "invoice_no": "#e42256"
+  }, {
+    "quote_no": "XPP",
+    "salesman_name": "Harriett Seymour",
+    "rep_code": "Seymour",
+    "branch_code": "3",
+    "created_date": "2023-03-13",
+    "created_time": "16:05:11",
+    "invoice_no": "#ea7f93"
+  }, {
+    "quote_no": "GUQ",
+    "salesman_name": "Sheila Knyvett",
+    "rep_code": "Knyvett",
+    "branch_code": "1",
+    "created_date": "2023-03-13",
+    "created_time": "17:51:41",
+    "invoice_no": "#c4c4eb"
+  }, {
+    "quote_no": "MEU",
+    "salesman_name": "Bern Ruselin",
+    "rep_code": "Ruselin",
+    "branch_code": "2",
+    "created_date": "2023-03-13",
+    "created_time": "10:11:44",
+    "invoice_no": "#1e1104"
+  }, {
+    "quote_no": "EJH",
+    "salesman_name": "Lydia Ennals",
+    "rep_code": "Ennals",
+    "branch_code": "3",
+    "created_date": "2023-03-13",
+    "created_time": "20:36:35",
+    "invoice_no": "#87bf44"
+  }, {
+    "quote_no": "AMU",
+    "salesman_name": "Matti Cardis",
+    "rep_code": "Cardis",
+    "branch_code": "3",
+    "created_date": "2023-03-13",
+    "created_time": "15:44:20",
+    "invoice_no": "#60bea1"
+  }, {
+    "quote_no": "HMO",
+    "salesman_name": "Hew Oggers",
+    "rep_code": "Oggers",
+    "branch_code": "2",
+    "created_date": "2023-03-13",
+    "created_time": "14:57:47",
+    "invoice_no": "#e08035"
+  }, {
+    "quote_no": "CTU",
+    "salesman_name": "Vincenty Curuclis",
+    "rep_code": "Curuclis",
+    "branch_code": "3",
+    "created_date": "2023-03-13",
+    "created_time": "4:06:45",
+    "invoice_no": "#76aadc"
+  }, {
+    "quote_no": "RPM",
+    "salesman_name": "Jerry Apark",
+    "rep_code": "Apark",
+    "branch_code": "2",
+    "created_date": "2023-03-13",
+    "created_time": "6:16:36",
+    "invoice_no": "#f7faed"
+  }
+ ]
+ 
